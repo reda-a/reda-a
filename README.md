@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @reda-a
+- 👀 I am a web developer
+- 🌱 I am constantly learning new technologies and keeping up to date with the latest trends.
+- 💞️ I am always looking to improve my skills
