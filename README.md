@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reda-a
-- 👀 I am a web developer
-- 🌱 I am constantly learning new technologies and keeping up to date with the latest trends.
-- 💞️ I am always looking to improve my skills
+- 👋 Hey there! I'm @reda-a, a web developer with a passion for cybersecurity.
+- 👀 I specialize in crafting intuitive digital experiences while ensuring robust security measures.
+- 🌱 Continuously learning and adapting, I'm committed to staying at the forefront of both web development and cybersecurity realms.
+- 💞️ Let's create impactful solutions together!
